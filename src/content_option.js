@@ -1,4 +1,4 @@
-const logotext = "JOHN";
+const logotext = "RAHUL";
 const meta = {
   title: "Rahul Malu",
   description:
@@ -13,7 +13,7 @@ const introdata = {
     third: "Backend + frontend development using JS",
   },
   description:
-    "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
+    "My hobbies include playing badminton, reading history, and philosophy. Getting to know the history of the places one travels to, gives me a real sense of humankind.",
   your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
 };
 
