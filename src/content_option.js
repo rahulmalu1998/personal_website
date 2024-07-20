@@ -168,7 +168,7 @@ const contactConfig = {
     "Available to discuss work opportunities and common interests on all modes of communications mentioned",
   // creat an emailjs.com account
   // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
-  YOUR_SERVICE_ID: "service_id",
+  YOUR_SERVICE_ID: "service_grqu3t6",
   YOUR_TEMPLATE_ID: "template_id",
   YOUR_USER_ID: "user_id",
 };
